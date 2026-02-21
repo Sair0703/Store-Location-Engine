@@ -1,0 +1,37 @@
+// =====================================================
+// Supabase Configuration Template
+// =====================================================
+// 
+// SETUP INSTRUCTIONS:
+// 1. Copy this file to: info.tsx (in the same folder)
+// 2. Replace the placeholder values with your actual Supabase credentials
+// 3. NEVER commit info.tsx to Git (it's in .gitignore)
+//
+// =====================================================
+
+// Your Supabase project ID
+// Find this in your Supabase dashboard URL: https://supabase.com/dashboard/project/YOUR_PROJECT_ID
+export const projectId = "YOUR_SUPABASE_PROJECT_ID";
+
+// Your Supabase anonymous/public API key
+// Find this in: Supabase Dashboard → Settings → API → Project API keys → anon/public key
+export const publicAnonKey = "YOUR_SUPABASE_ANON_KEY";
+
+// =====================================================
+// EXAMPLE (DO NOT USE THESE VALUES):
+// =====================================================
+// export const projectId = "cmycxqqfvzmpvdtvbakl";
+// export const publicAnonKey = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImNteWN4cXFmdnptcHZkdHZiYWtsIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzY4MDM4ODEsImV4cCI6MjA1MjM3OTg4MX0.r6vFHMX1Xqp-8x_iRmqukrTPDVBEfELtTrpb8z14w8k";
+
+// =====================================================
+// SECURITY WARNING:
+// =====================================================
+// ⚠️ NEVER commit your real API keys to a public repository!
+// ⚠️ The .gitignore file is configured to exclude info.tsx
+// ⚠️ Only commit this template file (info.tsx.example)
+//
+// If you accidentally commit your keys:
+// 1. Immediately rotate them in Supabase Dashboard
+// 2. Remove them from Git history
+// 3. Force push the cleaned repository
+// =====================================================

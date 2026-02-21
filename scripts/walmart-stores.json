@@ -1,0 +1,962 @@
+[
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "2150 Hawthorne Blvd, Redondo Beach, CA 90278",
+    "lat": 33.8736,
+    "lon": -118.3527,
+    "retailer": "Walmart"
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "3535 E Olympic Blvd, Los Angeles, CA 90023",
+    "lat": 34.0217,
+    "lon": -118.1946,
+    "retailer": "Walmart"
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "1150 El Camino Real, San Bruno, CA 94066",
+    "lat": 37.6348,
+    "lon": -122.4207,
+    "retailer": "Walmart"
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "8900 Old Seward Hwy, Anchorage, AK 99515",
+    "lat": 61.145,
+    "lon": -149.8679,
+    "retailer": "Walmart"
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "6770 Westworth Blvd, Westworth Village, TX 76114",
+    "lat": 32.7543,
+    "lon": -97.4367,
+    "retailer": "Walmart"
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "4739 E Ray Rd, Phoenix, AZ 85044",
+    "lat": 33.3197,
+    "lon": -111.9803,
+    "retailer": "Walmart"
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "1955 W Elliot Rd, Chandler, AZ 85224",
+    "lat": 33.3489,
+    "lon": -111.8736,
+    "retailer": "Walmart"
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "4505 S Maryland Pkwy, Las Vegas, NV 89119",
+    "lat": 36.1074,
+    "lon": -115.1357,
+    "retailer": "Walmart"
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "1123 N Hayden Meadows Dr, Portland, OR 97217",
+    "lat": 45.6012,
+    "lon": -122.6823,
+    "retailer": "Walmart"
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "4200 82nd Ave, Portland, OR 97266",
+    "lat": 45.4902,
+    "lon": -122.5784,
+    "retailer": "Walmart"
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "17432 15th Ave NE, Shoreline, WA 98155",
+    "lat": 47.751,
+    "lon": -122.3118,
+    "retailer": "Walmart"
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "1601 W Armitage Ave, Chicago, IL 60622",
+    "lat": 41.9178,
+    "lon": -87.6689,
+    "retailer": "Walmart"
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "7535 S Ashland Ave, Chicago, IL 60620",
+    "lat": 41.7567,
+    "lon": -87.6639,
+    "retailer": "Walmart"
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "4720 W Chicago Ave, Chicago, IL 60651",
+    "lat": 41.8953,
+    "lon": -87.7442,
+    "retailer": "Walmart"
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "8431 S Stewart Ave, Chicago, IL 60620",
+    "lat": 41.7411,
+    "lon": -87.6335,
+    "retailer": "Walmart"
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "835 Martin Luther King Jr Dr SW, Atlanta, GA 30314",
+    "lat": 33.7537,
+    "lon": -84.4134,
+    "retailer": "Walmart"
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "3250 SW 8th St, Miami, FL 33135",
+    "lat": 25.7663,
+    "lon": -80.2523,
+    "retailer": "Walmart"
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "20355 NW 2nd Ave, Miami Gardens, FL 33169",
+    "lat": 25.9647,
+    "lon": -80.2034,
+    "retailer": "Walmart"
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "777 E Altamonte Dr, Altamonte Springs, FL 32701",
+    "lat": 28.6611,
+    "lon": -81.3656,
+    "retailer": "Walmart"
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "950 Providence Hwy, Dedham, MA 02026",
+    "lat": 42.229,
+    "lon": -71.1756,
+    "retailer": "Walmart"
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "1350 S Colorado Blvd, Denver, CO 80222",
+    "lat": 39.6912,
+    "lon": -104.9401,
+    "retailer": "Walmart"
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "9400 E Hampden Ave, Denver, CO 80231",
+    "lat": 39.6534,
+    "lon": -104.8734,
+    "retailer": "Walmart"
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "1239 W 78th St, Richfield, MN 55423",
+    "lat": 44.8623,
+    "lon": -93.2912,
+    "retailer": "Walmart"
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "4627 Steele St, Denver, CO 80216",
+    "lat": 39.7823,
+    "lon": -104.9567,
+    "retailer": "Walmart"
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "1655 Town Center Dr, Chula Vista, CA 91910",
+    "lat": 32.6272464,
+    "lon": -116.9682842,
+    "retailer": "Walmart",
+    "_fixed": true,
+    "_original_coords": {
+      "lat": 32.6401,
+      "lon": -117.0842
+    }
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "1301 N Victory Pl, Burbank, CA 91502",
+    "lat": 34.1878463,
+    "lon": -118.3235988,
+    "retailer": "Walmart",
+    "_fixed": true,
+    "_original_coords": {
+      "lat": 34.1808,
+      "lon": -118.309
+    }
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "3255 Sports Arena Blvd, San Diego, CA 92110",
+    "lat": 32.7558642,
+    "lon": -117.2212992,
+    "retailer": "Walmart",
+    "_fixed": true,
+    "_original_coords": {
+      "lat": 32.7516,
+      "lon": -117.2045
+    }
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "555 9th St, San Francisco, CA 94103",
+    "lat": 37.7709988,
+    "lon": -122.4077368,
+    "retailer": "Walmart",
+    "_fixed": true,
+    "_original_coords": {
+      "lat": 37.7749,
+      "lon": -122.4194
+    }
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "4000 E 4th Ave, Anchorage, AK 99508",
+    "lat": 61.218689,
+    "lon": -149.806074,
+    "retailer": "Walmart",
+    "_fixed": true,
+    "_original_coords": {
+      "lat": 61.2181,
+      "lon": -149.9003
+    }
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "5605 E Sam Houston Pkwy N, Houston, TX 77015",
+    "lat": 29.7718889,
+    "lon": -95.1552259,
+    "retailer": "Walmart",
+    "_fixed": true,
+    "_original_coords": {
+      "lat": 29.7604,
+      "lon": -95.3698
+    }
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "12888 Gulf Fwy, Houston, TX 77034",
+    "lat": 29.6151672,
+    "lon": -95.2143486,
+    "retailer": "Walmart",
+    "_fixed": true,
+    "_original_coords": {
+      "lat": 29.6435,
+      "lon": -95.2191
+    }
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "8801 S Congress Ave, Austin, TX 78745",
+    "lat": 30.169631,
+    "lon": -97.787114,
+    "retailer": "Walmart",
+    "_fixed": true,
+    "_original_coords": {
+      "lat": 30.222,
+      "lon": -97.7923
+    }
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "12900 N I-35, Austin, TX 78753",
+    "lat": 30.4124543,
+    "lon": -97.6746535,
+    "retailer": "Walmart",
+    "_fixed": true,
+    "_original_coords": {
+      "lat": 30.3988,
+      "lon": -97.6792
+    }
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "4627 S Cooper St, Arlington, TX 76017",
+    "lat": 32.6715183,
+    "lon": -97.1342813,
+    "retailer": "Walmart",
+    "_fixed": true,
+    "_original_coords": {
+      "lat": 32.6839,
+      "lon": -97.1291
+    }
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "5010 W Northern Ave, Glendale, AZ 85301",
+    "lat": 33.5531786,
+    "lon": -112.1668378,
+    "retailer": "Walmart",
+    "_fixed": true,
+    "_original_coords": {
+      "lat": 33.5693,
+      "lon": -112.1642
+    }
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "9333 E Valencia Rd, Tucson, AZ 85747",
+    "lat": 32.1189469,
+    "lon": -110.7953264,
+    "retailer": "Walmart",
+    "_fixed": true,
+    "_original_coords": {
+      "lat": 32.1384,
+      "lon": -110.8267
+    }
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "7200 Arroyo Crossing Pkwy, Las Vegas, NV 89113",
+    "lat": 36.0650388,
+    "lon": -115.2490579,
+    "retailer": "Walmart",
+    "_fixed": true,
+    "_original_coords": {
+      "lat": 36.0397,
+      "lon": -115.2981
+    }
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "3041 N Rainbow Blvd, Las Vegas, NV 89108",
+    "lat": 36.2147605,
+    "lon": -115.2450661,
+    "retailer": "Walmart",
+    "_fixed": true,
+    "_original_coords": {
+      "lat": 36.1955,
+      "lon": -115.2433
+    }
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "500 N Stephanie St, Henderson, NV 89014",
+    "lat": 36.0591598,
+    "lon": -115.0438951,
+    "retailer": "Walmart",
+    "_fixed": true,
+    "_original_coords": {
+      "lat": 36.0347,
+      "lon": -114.9816
+    }
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "17550 SW 65th Ave, Lake Oswego, OR 97035",
+    "lat": 45.3908001,
+    "lon": -122.7439292,
+    "retailer": "Walmart",
+    "_fixed": true,
+    "_original_coords": {
+      "lat": 45.4215,
+      "lon": -122.7645
+    }
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "13550 SE Mill Plain Blvd, Vancouver, WA 98684",
+    "lat": 45.6182912,
+    "lon": -122.5288364,
+    "retailer": "Walmart",
+    "_fixed": true,
+    "_original_coords": {
+      "lat": 45.6302,
+      "lon": -122.5318
+    }
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "10116 Edmonds Way, Edmonds, WA 98020",
+    "lat": 47.7841207,
+    "lon": -122.3528583,
+    "retailer": "Walmart",
+    "_fixed": true,
+    "_original_coords": {
+      "lat": 47.8187,
+      "lon": -122.3451
+    }
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "3849 95th St, Evergreen Park, IL 60805",
+    "lat": 41.7204294,
+    "lon": -87.718114,
+    "retailer": "Walmart",
+    "_fixed": true,
+    "_original_coords": {
+      "lat": 41.7203,
+      "lon": -87.7023
+    }
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "3600 N 120th St, Omaha, NE 68164",
+    "lat": 41.2915844,
+    "lon": -96.1007861,
+    "retailer": "Walmart",
+    "_fixed": true,
+    "_original_coords": {
+      "lat": 41.2912,
+      "lon": -96.1336
+    }
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "8525 S 71st Plaza, Papillion, NE 68133",
+    "lat": 41.1743317,
+    "lon": -96.0194541,
+    "retailer": "Walmart",
+    "_fixed": true,
+    "_original_coords": {
+      "lat": 41.1587,
+      "lon": -96.0564
+    }
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "9305 Parkway E, Birmingham, AL 35206",
+    "lat": 33.5896775,
+    "lon": -86.6974928,
+    "retailer": "Walmart",
+    "_fixed": true,
+    "_original_coords": {
+      "lat": 33.5654,
+      "lon": -86.7145
+    }
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "5335 Highway 280, Birmingham, AL 35242",
+    "lat": 33.4326324,
+    "lon": -86.7144195,
+    "retailer": "Walmart",
+    "_fixed": true,
+    "_original_coords": {
+      "lat": 33.4129,
+      "lon": -86.7353
+    }
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "6495 Atlanta Hwy, Montgomery, AL 36117",
+    "lat": 32.385046,
+    "lon": -86.184915,
+    "retailer": "Walmart",
+    "_fixed": true,
+    "_original_coords": {
+      "lat": 32.3482,
+      "lon": -86.1783
+    }
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "4201 N Roxboro St, Durham, NC 27704",
+    "lat": 36.0478528,
+    "lon": -78.9036743,
+    "retailer": "Walmart",
+    "_fixed": true,
+    "_original_coords": {
+      "lat": 36.0359,
+      "lon": -78.9022
+    }
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "6600 Glenwood Ave, Raleigh, NC 27612",
+    "lat": 35.8622625,
+    "lon": -78.7072362,
+    "retailer": "Walmart",
+    "_fixed": true,
+    "_original_coords": {
+      "lat": 35.8302,
+      "lon": -78.6122
+    }
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "8605 Concord Mills Blvd, Concord, NC 28027",
+    "lat": 35.374108,
+    "lon": -80.72597,
+    "retailer": "Walmart",
+    "_fixed": true,
+    "_original_coords": {
+      "lat": 35.3629,
+      "lon": -80.7234
+    }
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "7620 University City Blvd, Charlotte, NC 28213",
+    "lat": 35.2914,
+    "lon": -80.7545628,
+    "retailer": "Walmart",
+    "_fixed": true,
+    "_original_coords": {
+      "lat": 35.3081,
+      "lon": -80.7334
+    }
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "6035 Peachtree Pkwy, Peachtree Corners, GA 30092",
+    "lat": 33.9552283,
+    "lon": -84.2330522,
+    "retailer": "Walmart",
+    "_fixed": true,
+    "_original_coords": {
+      "lat": 33.9698,
+      "lon": -84.2216
+    }
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "2427 Gresham Rd SE, Atlanta, GA 30316",
+    "lat": 33.719403,
+    "lon": -84.312825,
+    "retailer": "Walmart",
+    "_fixed": true,
+    "_original_coords": {
+      "lat": 33.7242,
+      "lon": -84.3298
+    }
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "6149 Old National Hwy, College Park, GA 30349",
+    "lat": 33.6225162,
+    "lon": -84.4744507,
+    "retailer": "Walmart",
+    "_fixed": true,
+    "_original_coords": {
+      "lat": 33.6412,
+      "lon": -84.4798
+    }
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "11250 E Colonial Dr, Orlando, FL 32817",
+    "lat": 28.5659297,
+    "lon": -81.2177891,
+    "retailer": "Walmart",
+    "_fixed": true,
+    "_original_coords": {
+      "lat": 28.5618,
+      "lon": -81.2398
+    }
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "9500 Regency Square Blvd, Jacksonville, FL 32225",
+    "lat": 30.326173,
+    "lon": -81.551474,
+    "retailer": "Walmart",
+    "_fixed": true,
+    "_original_coords": {
+      "lat": 30.2587,
+      "lon": -81.5934
+    }
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "10251 Atlantic Blvd, Jacksonville, FL 32225",
+    "lat": 30.3234241,
+    "lon": -81.5343122,
+    "retailer": "Walmart",
+    "_fixed": true,
+    "_original_coords": {
+      "lat": 30.3242,
+      "lon": -81.5129
+    }
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "5615 W Linebaugh Ave, Tampa, FL 33624",
+    "lat": 28.0397113,
+    "lon": -82.481504,
+    "retailer": "Walmart",
+    "_fixed": true,
+    "_original_coords": {
+      "lat": 28.0234,
+      "lon": -82.5342
+    }
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "6265 Brockport Spencerport Rd, Brockport, NY 14420",
+    "lat": 43.1968956,
+    "lon": -77.927773,
+    "retailer": "Walmart",
+    "_fixed": true,
+    "_original_coords": {
+      "lat": 43.1923,
+      "lon": -77.9389
+    }
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "3195 Amelia Dr, Orchard Park, NY 14127",
+    "lat": 42.7891528,
+    "lon": -78.7822023,
+    "retailer": "Walmart",
+    "_fixed": true,
+    "_original_coords": {
+      "lat": 42.7639,
+      "lon": -78.7445
+    }
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "4975 Transit Rd, Depew, NY 14043",
+    "lat": 42.8823862,
+    "lon": -78.6940385,
+    "retailer": "Walmart",
+    "_fixed": true,
+    "_original_coords": {
+      "lat": 42.9234,
+      "lon": -78.7089
+    }
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "1201 Airport Rd, Allentown, PA 18109",
+    "lat": 40.6288985,
+    "lon": -75.4394479,
+    "retailer": "Walmart",
+    "_fixed": true,
+    "_original_coords": {
+      "lat": 40.6523,
+      "lon": -75.4334
+    }
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "1850 E Lincoln Hwy, Langhorne, PA 19047",
+    "lat": 40.1740209,
+    "lon": -74.8885269,
+    "retailer": "Walmart",
+    "_fixed": true,
+    "_original_coords": {
+      "lat": 40.1734,
+      "lon": -74.9234
+    }
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "411 Cooley St, Springfield, MA 01128",
+    "lat": 42.0934217,
+    "lon": -72.4989991,
+    "retailer": "Walmart",
+    "_fixed": true,
+    "_original_coords": {
+      "lat": 42.1015,
+      "lon": -72.5445
+    }
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "500 Lincoln St, Worcester, MA 01605",
+    "lat": 42.2969376,
+    "lon": -71.7732993,
+    "retailer": "Walmart",
+    "_fixed": true,
+    "_original_coords": {
+      "lat": 42.2401,
+      "lon": -71.8123
+    }
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "301 Chelmsford St, Chelmsford, MA 01824",
+    "lat": 42.60527,
+    "lon": -71.3445402,
+    "retailer": "Walmart",
+    "_fixed": true,
+    "_original_coords": {
+      "lat": 42.5984,
+      "lon": -71.3645
+    }
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "4675 Southpark Dr, Medina, OH 44256",
+    "lat": 41.0107062,
+    "lon": -81.7262298,
+    "retailer": "Walmart",
+    "_fixed": true,
+    "_original_coords": {
+      "lat": 41.1223,
+      "lon": -81.8734
+    }
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "3400 W Market St, Fairlawn, OH 44333",
+    "lat": 41.1325568,
+    "lon": -81.6190841,
+    "retailer": "Walmart",
+    "_fixed": true,
+    "_original_coords": {
+      "lat": 41.1178,
+      "lon": -81.6823
+    }
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "2473 E State St, Salem, OH 44460",
+    "lat": 40.9008783,
+    "lon": -80.8260203,
+    "retailer": "Walmart",
+    "_fixed": true,
+    "_original_coords": {
+      "lat": 40.9145,
+      "lon": -80.8389
+    }
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "10000 Colerain Ave, Cincinnati, OH 45251",
+    "lat": 39.1586257,
+    "lon": -84.5445436,
+    "retailer": "Walmart",
+    "_fixed": true,
+    "_original_coords": {
+      "lat": 39.2434,
+      "lon": -84.6012
+    }
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "3800 E Broad St, Columbus, OH 43213",
+    "lat": 39.9799015,
+    "lon": -82.8392973,
+    "retailer": "Walmart",
+    "_fixed": true,
+    "_original_coords": {
+      "lat": 39.9612,
+      "lon": -82.9445
+    }
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "3586 Maple Ave, Zanesville, OH 43701",
+    "lat": 39.9894716,
+    "lon": -82.0233773,
+    "retailer": "Walmart",
+    "_fixed": true,
+    "_original_coords": {
+      "lat": 39.9401,
+      "lon": -82.0234
+    }
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "4301 24th Ave, Fort Gratiot, MI 48059",
+    "lat": 43.0329261,
+    "lon": -82.4564748,
+    "retailer": "Walmart",
+    "_fixed": true,
+    "_original_coords": {
+      "lat": 42.9989,
+      "lon": -82.4567
+    }
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "5130 Coolidge Hwy, Royal Oak, MI 48073",
+    "lat": 42.5289464,
+    "lon": -83.184389,
+    "retailer": "Walmart",
+    "_fixed": true,
+    "_original_coords": {
+      "lat": 42.5234,
+      "lon": -83.1578
+    }
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "29176 Orchard Lake Rd, Farmington Hills, MI 48334",
+    "lat": 42.5112015,
+    "lon": -83.3591292,
+    "retailer": "Walmart",
+    "_fixed": true,
+    "_original_coords": {
+      "lat": 42.5623,
+      "lon": -83.3734
+    }
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "37300 Gratiot Ave, Clinton Township, MI 48036",
+    "lat": 42.572373,
+    "lon": -82.889808,
+    "retailer": "Walmart",
+    "_fixed": true,
+    "_original_coords": {
+      "lat": 42.5912,
+      "lon": -82.9245
+    }
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "3600 Minnesota Dr, Anchorage, AK 99503",
+    "lat": 61.18795,
+    "lon": -149.913349,
+    "retailer": "Walmart",
+    "_fixed": true,
+    "_original_coords": {
+      "lat": 61.1945,
+      "lon": -149.8923
+    }
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "2770 Dagny Way, Lafayette, CO 80026",
+    "lat": 40.0145244,
+    "lon": -105.1340058,
+    "retailer": "Walmart",
+    "_fixed": true,
+    "_original_coords": {
+      "lat": 39.9923,
+      "lon": -105.1234
+    }
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "3301 S Academy Blvd, Colorado Springs, CO 80916",
+    "lat": 38.7858785,
+    "lon": -104.7574509,
+    "retailer": "Walmart",
+    "_fixed": true,
+    "_original_coords": {
+      "lat": 38.8023,
+      "lon": -104.7923
+    }
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "7250 W 52nd Ave, Arvada, CO 80002",
+    "lat": 39.7911672,
+    "lon": -105.0770637,
+    "retailer": "Walmart",
+    "_fixed": true,
+    "_original_coords": {
+      "lat": 39.8023,
+      "lon": -105.0789
+    }
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "10735 Lavington Dr, St Louis, MO 63123",
+    "lat": 38.6262619,
+    "lon": -90.3315336,
+    "retailer": "Walmart",
+    "_fixed": true,
+    "_original_coords": {
+      "lat": 38.5534,
+      "lon": -90.3423
+    }
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "4801 W Florissant Ave, St Louis, MO 63115",
+    "lat": 38.6886758,
+    "lon": -90.2339351,
+    "retailer": "Walmart",
+    "_fixed": true,
+    "_original_coords": {
+      "lat": 38.6734,
+      "lon": -90.2412
+    }
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "4627 NW Gateway Ave, Riverside, MO 64150",
+    "lat": 39.1810685,
+    "lon": -94.6132216,
+    "retailer": "Walmart",
+    "_fixed": true,
+    "_original_coords": {
+      "lat": 39.1834,
+      "lon": -94.6245
+    }
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "8551 N Boardwalk Ave, Kansas City, MO 64154",
+    "lat": 39.2504963,
+    "lon": -94.6545118,
+    "retailer": "Walmart",
+    "_fixed": true,
+    "_original_coords": {
+      "lat": 39.2445,
+      "lon": -94.6834
+    }
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "3745 Marketplace Dr, Rochester, MN 55901",
+    "lat": 44.0640307,
+    "lon": -92.5021753,
+    "retailer": "Walmart",
+    "_fixed": true,
+    "_original_coords": {
+      "lat": 44.0234,
+      "lon": -92.5067
+    }
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "7835 150th St W, Apple Valley, MN 55124",
+    "lat": 44.7321539,
+    "lon": -93.2381627,
+    "retailer": "Walmart",
+    "_fixed": true,
+    "_original_coords": {
+      "lat": 44.7312,
+      "lon": -93.2178
+    }
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "9011 E Stockton Blvd, Elk Grove, CA 95624",
+    "lat": 38.4472335,
+    "lon": -121.4056121,
+    "retailer": "Walmart",
+    "_fixed": true,
+    "_original_coords": {
+      "lat": 38.4178,
+      "lon": -121.3834
+    }
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "8915 Gerber Rd, Sacramento, CA 95828",
+    "lat": 38.482889,
+    "lon": -121.3693956,
+    "retailer": "Walmart",
+    "_fixed": true,
+    "_original_coords": {
+      "lat": 38.4923,
+      "lon": -121.4234
+    }
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "5141 Bannock St, Denver, CO 80216",
+    "lat": 39.7894441,
+    "lon": -104.9897112,
+    "retailer": "Walmart",
+    "_fixed": true,
+    "_original_coords": {
+      "lat": 39.7934,
+      "lon": -105.0012
+    }
+  }
+]

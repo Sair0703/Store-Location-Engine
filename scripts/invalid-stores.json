@@ -1,0 +1,79 @@
+[
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "8101 S John Young Pkwy, Orlando, FL 32819",
+    "lat": 28.4562,
+    "lon": -81.429,
+    "retailer": "Walmart",
+    "verification": {
+      "valid": false,
+      "reason": "Address not found"
+    }
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "7450 Northside Dr, Tampa, FL 33604",
+    "lat": 28.0317,
+    "lon": -82.4876,
+    "retailer": "Walmart",
+    "verification": {
+      "valid": false,
+      "reason": "Address not found"
+    }
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "37 Marketplace Dr, Rochester, NY 14623",
+    "lat": 43.0845,
+    "lon": -77.6489,
+    "retailer": "Walmart",
+    "verification": {
+      "valid": false,
+      "reason": "Address not found"
+    }
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "6535 Carlisle Pike, Mechanicsburg, PA 17050",
+    "lat": 40.2145,
+    "lon": -77.0598,
+    "retailer": "Walmart",
+    "verification": {
+      "valid": false,
+      "reason": "Address not found"
+    }
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "51 Checkered Flag Blvd, Middletown, PA 17057",
+    "lat": 40.2098,
+    "lon": -76.7523,
+    "retailer": "Walmart",
+    "verification": {
+      "valid": false,
+      "reason": "Address not found"
+    }
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "4446 Eastgate Blvd, Cincinnati, OH 45245",
+    "lat": 39.0989,
+    "lon": -84.2734,
+    "retailer": "Walmart",
+    "verification": {
+      "valid": false,
+      "reason": "Address not found"
+    }
+  },
+  {
+    "store_name": "Ralphs",
+    "address": "3300 W 6th St, Los Angeles, CA 90020",
+    "lat": 34.0633,
+    "lon": -118.2996,
+    "retailer": "Ralphs",
+    "verification": {
+      "valid": false,
+      "reason": "fetch failed"
+    }
+  }
+]
