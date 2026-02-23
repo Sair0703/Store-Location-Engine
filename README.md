@@ -2,8 +2,8 @@
 
 A store locator that finds nearby stores using ZIP codes—no Google Maps API needed. Built for the Prox Software Engineering Internship assessment.
 
-**Live Demo:** [Hosted on Vercel](https://your-app.vercel.app) 🚀  
-**GitHub:** [Your Repo](https://github.com/yourusername/store-distance-engine)
+**Live Demo:** [Hosted on Vercel](https://store-location-finder-ruddy.vercel.app/) 🚀  
+**GitHub:** [Your Repo](https://github.com/Sair0703/store-distance-engine)
 
 ---
 
