@@ -328,7 +328,7 @@ Demonstrates both regional and national coverage patterns.
 
 ## Demo
 
-**Frontend:** [https://your-app.vercel.app](https://your-app.vercel.app)
+**Frontend:** [https://store-location-finder-ruddy.vercel.app/)
 
 **Try these searches:**
 - ZIP 91502 (Burbank, CA) → 2 stores
