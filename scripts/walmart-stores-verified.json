@@ -1,0 +1,170 @@
+[
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "2150 Hawthorne Blvd, Redondo Beach, CA 90278",
+    "lat": 33.8736,
+    "lon": -118.3527,
+    "retailer": "Walmart"
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "3535 E Olympic Blvd, Los Angeles, CA 90023",
+    "lat": 34.0217,
+    "lon": -118.1946,
+    "retailer": "Walmart"
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "1150 El Camino Real, San Bruno, CA 94066",
+    "lat": 37.6348,
+    "lon": -122.4207,
+    "retailer": "Walmart"
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "8900 Old Seward Hwy, Anchorage, AK 99515",
+    "lat": 61.145,
+    "lon": -149.8679,
+    "retailer": "Walmart"
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "6770 Westworth Blvd, Westworth Village, TX 76114",
+    "lat": 32.7543,
+    "lon": -97.4367,
+    "retailer": "Walmart"
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "4739 E Ray Rd, Phoenix, AZ 85044",
+    "lat": 33.3197,
+    "lon": -111.9803,
+    "retailer": "Walmart"
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "1955 W Elliot Rd, Chandler, AZ 85224",
+    "lat": 33.3489,
+    "lon": -111.8736,
+    "retailer": "Walmart"
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "4505 S Maryland Pkwy, Las Vegas, NV 89119",
+    "lat": 36.1074,
+    "lon": -115.1357,
+    "retailer": "Walmart"
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "1123 N Hayden Meadows Dr, Portland, OR 97217",
+    "lat": 45.6012,
+    "lon": -122.6823,
+    "retailer": "Walmart"
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "4200 82nd Ave, Portland, OR 97266",
+    "lat": 45.4902,
+    "lon": -122.5784,
+    "retailer": "Walmart"
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "17432 15th Ave NE, Shoreline, WA 98155",
+    "lat": 47.751,
+    "lon": -122.3118,
+    "retailer": "Walmart"
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "1601 W Armitage Ave, Chicago, IL 60622",
+    "lat": 41.9178,
+    "lon": -87.6689,
+    "retailer": "Walmart"
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "7535 S Ashland Ave, Chicago, IL 60620",
+    "lat": 41.7567,
+    "lon": -87.6639,
+    "retailer": "Walmart"
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "4720 W Chicago Ave, Chicago, IL 60651",
+    "lat": 41.8953,
+    "lon": -87.7442,
+    "retailer": "Walmart"
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "8431 S Stewart Ave, Chicago, IL 60620",
+    "lat": 41.7411,
+    "lon": -87.6335,
+    "retailer": "Walmart"
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "835 Martin Luther King Jr Dr SW, Atlanta, GA 30314",
+    "lat": 33.7537,
+    "lon": -84.4134,
+    "retailer": "Walmart"
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "3250 SW 8th St, Miami, FL 33135",
+    "lat": 25.7663,
+    "lon": -80.2523,
+    "retailer": "Walmart"
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "20355 NW 2nd Ave, Miami Gardens, FL 33169",
+    "lat": 25.9647,
+    "lon": -80.2034,
+    "retailer": "Walmart"
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "777 E Altamonte Dr, Altamonte Springs, FL 32701",
+    "lat": 28.6611,
+    "lon": -81.3656,
+    "retailer": "Walmart"
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "950 Providence Hwy, Dedham, MA 02026",
+    "lat": 42.229,
+    "lon": -71.1756,
+    "retailer": "Walmart"
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "1350 S Colorado Blvd, Denver, CO 80222",
+    "lat": 39.6912,
+    "lon": -104.9401,
+    "retailer": "Walmart"
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "9400 E Hampden Ave, Denver, CO 80231",
+    "lat": 39.6534,
+    "lon": -104.8734,
+    "retailer": "Walmart"
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "1239 W 78th St, Richfield, MN 55423",
+    "lat": 44.8623,
+    "lon": -93.2912,
+    "retailer": "Walmart"
+  },
+  {
+    "store_name": "Walmart Supercenter",
+    "address": "4627 Steele St, Denver, CO 80216",
+    "lat": 39.7823,
+    "lon": -104.9567,
+    "retailer": "Walmart"
+  }
+]

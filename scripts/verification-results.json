@@ -1,0 +1,1969 @@
+{
+  "valid": [
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "2150 Hawthorne Blvd, Redondo Beach, CA 90278",
+      "lat": 33.8736,
+      "lon": -118.3527,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": true,
+        "confidence": "high",
+        "foundLat": 33.8675919,
+        "foundLon": -118.3527029,
+        "displayName": "Hawthorne Boulevard, Redondo Beach, Los Angeles County, California, 90504, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "3535 E Olympic Blvd, Los Angeles, CA 90023",
+      "lat": 34.0217,
+      "lon": -118.1946,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": true,
+        "confidence": "high",
+        "foundLat": 34.0188771,
+        "foundLon": -118.2013128,
+        "displayName": "3535, East Olympic Boulevard, Los Angeles, Los Angeles County, California, 90023, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "1150 El Camino Real, San Bruno, CA 94066",
+      "lat": 37.6348,
+      "lon": -122.4207,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": true,
+        "confidence": "high",
+        "foundLat": 37.6366277,
+        "foundLon": -122.4168627,
+        "displayName": "Target, 1150, El Camino Real, San Bruno, San Mateo County, California, 94066, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "8900 Old Seward Hwy, Anchorage, AK 99515",
+      "lat": 61.145,
+      "lon": -149.8679,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": true,
+        "confidence": "high",
+        "foundLat": 61.1402298,
+        "foundLon": -149.8700635,
+        "displayName": "Walmart Supercenter, 8900, Old Seward Highway, Anchorage, Alaska, 99515, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "6770 Westworth Blvd, Westworth Village, TX 76114",
+      "lat": 32.7543,
+      "lon": -97.4367,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": true,
+        "confidence": "high",
+        "foundLat": 32.7552495,
+        "foundLon": -97.4338254,
+        "displayName": "Walmart Supercenter, 6770, Westworth Boulevard, Westworth Village, Tarrant County, Texas, 76114, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "4739 E Ray Rd, Phoenix, AZ 85044",
+      "lat": 33.3197,
+      "lon": -111.9803,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": true,
+        "confidence": "high",
+        "foundLat": 33.3197519,
+        "foundLon": -111.9816433,
+        "displayName": "4739, East Ray Road, Ahwatukee Foothills, Phoenix, Maricopa County, Arizona, 85044, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "1955 W Elliot Rd, Chandler, AZ 85224",
+      "lat": 33.3489,
+      "lon": -111.8736,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": true,
+        "confidence": "high",
+        "foundLat": 33.349472,
+        "foundLon": -111.8756607,
+        "displayName": "1955, West Elliot Road, Chandler, Maricopa County, Arizona, 85224, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "4505 S Maryland Pkwy, Las Vegas, NV 89119",
+      "lat": 36.1074,
+      "lon": -115.1357,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": true,
+        "confidence": "high",
+        "foundLat": 36.1079411,
+        "foundLon": -115.1439051,
+        "displayName": "University of Nevada, Las Vegas, 4505, South Maryland Parkway, Midtown UNLV, Paradise, Las Vegas, Clark County, Nevada, 89154, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "1123 N Hayden Meadows Dr, Portland, OR 97217",
+      "lat": 45.6012,
+      "lon": -122.6823,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": true,
+        "confidence": "high",
+        "foundLat": 45.595545,
+        "foundLon": -122.6794488,
+        "displayName": "1123, North Hayden Meadows Drive, Delta Park Center, East Columbia, Portland, Multnomah County, Oregon, 97217, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "4200 82nd Ave, Portland, OR 97266",
+      "lat": 45.4902,
+      "lon": -122.5784,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": true,
+        "confidence": "high",
+        "foundLat": 45.491134,
+        "foundLon": -122.5747121,
+        "displayName": "Hong Phat Supercenter, 4200, Southeast 82nd Avenue, Foster-Powell, Portland, Multnomah County, Oregon, 97266, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "17432 15th Ave NE, Shoreline, WA 98155",
+      "lat": 47.751,
+      "lon": -122.3118,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": true,
+        "confidence": "high",
+        "foundLat": 47.7552793,
+        "foundLon": -122.3133357,
+        "displayName": "17432, 15th Avenue Northeast, Ridgecrest, Shoreline, King County, Washington, 98155, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "1601 W Armitage Ave, Chicago, IL 60622",
+      "lat": 41.9178,
+      "lon": -87.6689,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": true,
+        "confidence": "high",
+        "foundLat": 41.917849,
+        "foundLon": -87.668111,
+        "displayName": "1601, West Armitage Avenue, Bucktown, Chicago, West Chicago Township, Cook County, Illinois, 60642, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "7535 S Ashland Ave, Chicago, IL 60620",
+      "lat": 41.7567,
+      "lon": -87.6639,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": true,
+        "confidence": "high",
+        "foundLat": 41.7563239,
+        "foundLon": -87.662939,
+        "displayName": "Walmart Neighborhood Market, 7535, South Ashland Avenue, Auburn Gresham, Chicago, Lake Township, Cook County, Illinois, 60620, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "4720 W Chicago Ave, Chicago, IL 60651",
+      "lat": 41.8953,
+      "lon": -87.7442,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": true,
+        "confidence": "high",
+        "foundLat": 41.8951206,
+        "foundLon": -87.7439561,
+        "displayName": "4720, West Chicago Avenue, Moreland, Austin, Chicago, West Chicago Township, Cook County, Illinois, 60651, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "8431 S Stewart Ave, Chicago, IL 60620",
+      "lat": 41.7411,
+      "lon": -87.6335,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": true,
+        "confidence": "high",
+        "foundLat": 41.741459,
+        "foundLon": -87.6339445,
+        "displayName": "8431, South Stewart Avenue, Chatham Market, Chatham, Chicago, Lake Township, Cook County, Illinois, 60620, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "835 Martin Luther King Jr Dr SW, Atlanta, GA 30314",
+      "lat": 33.7537,
+      "lon": -84.4134,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": true,
+        "confidence": "high",
+        "foundLat": 33.7559222,
+        "foundLon": -84.4136274,
+        "displayName": "Walmart Neighborhood Market, 835, Martin Luther King Jr Drive Southwest, Vine City, Atlanta, Fulton County, Georgia, 30314, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "3250 SW 8th St, Miami, FL 33135",
+      "lat": 25.7663,
+      "lon": -80.2523,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": true,
+        "confidence": "high",
+        "foundLat": 25.7648099,
+        "foundLon": -80.2482833,
+        "displayName": "3250, Southwest 8th Street, Silver Court Trailer Park, Miami, Miami-Dade County, Florida, 33135, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "20355 NW 2nd Ave, Miami Gardens, FL 33169",
+      "lat": 25.9647,
+      "lon": -80.2034,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": true,
+        "confidence": "high",
+        "foundLat": 25.9626317,
+        "foundLon": -80.2057418,
+        "displayName": "20355, Northwest 2nd Avenue, Andover Golf Estates, Miami Gardens, Miami-Dade County, Florida, 33169, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "777 E Altamonte Dr, Altamonte Springs, FL 32701",
+      "lat": 28.6611,
+      "lon": -81.3656,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": true,
+        "confidence": "high",
+        "foundLat": 28.6631953,
+        "foundLon": -81.3642431,
+        "displayName": "777, East Altamonte Drive, Altamonte Springs, Seminole County, Florida, 32701, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "950 Providence Hwy, Dedham, MA 02026",
+      "lat": 42.229,
+      "lon": -71.1756,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": true,
+        "confidence": "high",
+        "foundLat": 42.2335072,
+        "foundLon": -71.1800221,
+        "displayName": "950, Providence Highway, Dedham, Norfolk County, Massachusetts, 02026, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "1350 S Colorado Blvd, Denver, CO 80222",
+      "lat": 39.6912,
+      "lon": -104.9401,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": true,
+        "confidence": "high",
+        "foundLat": 39.692019,
+        "foundLon": -104.9404514,
+        "displayName": "1350, South Colorado Boulevard, Denver, Colorado, 80222, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "9400 E Hampden Ave, Denver, CO 80231",
+      "lat": 39.6534,
+      "lon": -104.8734,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": true,
+        "confidence": "high",
+        "foundLat": 39.6518238,
+        "foundLon": -104.8789931,
+        "displayName": "Walmart Supercenter, 9400, East Hampden Avenue, Denver, Arapahoe County, Colorado, 80231, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "1239 W 78th St, Richfield, MN 55423",
+      "lat": 44.8623,
+      "lon": -93.2912,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": true,
+        "confidence": "high",
+        "foundLat": 44.8626154,
+        "foundLon": -93.2960696,
+        "displayName": "West 78th Street, Richfield, Hennepin County, Minnesota, 55423, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "4627 Steele St, Denver, CO 80216",
+      "lat": 39.7823,
+      "lon": -104.9567,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": true,
+        "confidence": "high",
+        "foundLat": 39.7815007,
+        "foundLon": -104.9498013,
+        "displayName": "4627, North Vasquez Boulevard, Elyria Swansea, Denver, Colorado, 80216, United States"
+      }
+    },
+    {
+      "store_name": "Ralphs",
+      "address": "9040 W Sunset Blvd, West Hollywood, CA 90069",
+      "lat": 34.0903,
+      "lon": -118.389,
+      "retailer": "Ralphs",
+      "verification": {
+        "valid": true,
+        "confidence": "high",
+        "foundLat": 34.0905439,
+        "foundLon": -118.3890667,
+        "displayName": "9040, West Sunset Boulevard, Sunset Strip, West Hollywood, Los Angeles County, California, 90069, United States"
+      }
+    },
+    {
+      "store_name": "Ralphs",
+      "address": "645 W 9th St, Los Angeles, CA 90015",
+      "lat": 34.0452,
+      "lon": -118.2612,
+      "retailer": "Ralphs",
+      "verification": {
+        "valid": true,
+        "confidence": "high",
+        "foundLat": 34.0461652,
+        "foundLon": -118.260926,
+        "displayName": "Supercuts, 645, West 9th Street, Financial District, Downtown, Los Angeles, Los Angeles County, California, 90015, United States"
+      }
+    },
+    {
+      "store_name": "Ralphs",
+      "address": "1730 Ocean Park Blvd, Santa Monica, CA 90405",
+      "lat": 34.0098,
+      "lon": -118.4692,
+      "retailer": "Ralphs",
+      "verification": {
+        "valid": true,
+        "confidence": "high",
+        "foundLat": 34.0126447,
+        "foundLon": -118.466356,
+        "displayName": "1730, Ocean Park Boulevard, Santa Monica, Los Angeles County, California, 90405, United States"
+      }
+    },
+    {
+      "store_name": "Ralphs",
+      "address": "1100 Glendon Ave, Los Angeles, CA 90024",
+      "lat": 34.0602,
+      "lon": -118.4446,
+      "retailer": "Ralphs",
+      "verification": {
+        "valid": true,
+        "confidence": "high",
+        "foundLat": 34.0605591,
+        "foundLon": -118.4435044,
+        "displayName": "Westwood Center, 1100, Glendon Avenue, Westwood Village, Westwood, Los Angeles, Los Angeles County, California, 90024, United States"
+      }
+    },
+    {
+      "store_name": "Ralphs",
+      "address": "10861 Weyburn Ave, Los Angeles, CA 90024",
+      "lat": 34.0588,
+      "lon": -118.4442,
+      "retailer": "Ralphs",
+      "verification": {
+        "valid": true,
+        "confidence": "high",
+        "foundLat": 34.0627169,
+        "foundLon": -118.443724,
+        "displayName": "Target, 10861, Weyburn Avenue, Westwood Village, Westwood, Los Angeles, Los Angeles County, California, 90024, United States"
+      }
+    },
+    {
+      "store_name": "Ralphs",
+      "address": "3540 S Sepulveda Blvd, Los Angeles, CA 90034",
+      "lat": 34.0189,
+      "lon": -118.4241,
+      "retailer": "Ralphs",
+      "verification": {
+        "valid": true,
+        "confidence": "high",
+        "foundLat": 34.0188266,
+        "foundLon": -118.4217648,
+        "displayName": "3540, South Sepulveda Boulevard, Palms, Los Angeles, Los Angeles County, California, 90034, United States"
+      }
+    },
+    {
+      "store_name": "Ralphs",
+      "address": "11727 W Olympic Blvd, Los Angeles, CA 90064",
+      "lat": 34.0359,
+      "lon": -118.4556,
+      "retailer": "Ralphs",
+      "verification": {
+        "valid": true,
+        "confidence": "high",
+        "foundLat": 34.0350253,
+        "foundLon": -118.4492796,
+        "displayName": "Ralphs, 11727, West Olympic Boulevard, Sawtelle, Los Angeles, Los Angeles County, California, 90064, United States"
+      }
+    },
+    {
+      "store_name": "Ralphs",
+      "address": "851 S Vermont Ave, Los Angeles, CA 90005",
+      "lat": 34.0576,
+      "lon": -118.2917,
+      "retailer": "Ralphs",
+      "verification": {
+        "valid": true,
+        "confidence": "high",
+        "foundLat": 34.0572688,
+        "foundLon": -118.2917245,
+        "displayName": "851, South Vermont Avenue, Pico-Union, Los Angeles, Los Angeles County, California, 90005, United States"
+      }
+    },
+    {
+      "store_name": "Ralphs",
+      "address": "3250 Wilshire Blvd, Los Angeles, CA 90010",
+      "lat": 34.0621,
+      "lon": -118.2996,
+      "retailer": "Ralphs",
+      "verification": {
+        "valid": true,
+        "confidence": "high",
+        "foundLat": 34.0609839,
+        "foundLon": -118.2932673,
+        "displayName": "Westwood College - Los Angeles, 3250, Wilshire Boulevard, Koreatown, Los Angeles, Los Angeles County, California, 90010, United States"
+      }
+    },
+    {
+      "store_name": "Ralphs",
+      "address": "18040 Chatsworth St, Granada Hills, CA 91344",
+      "lat": 34.2592,
+      "lon": -118.5253,
+      "retailer": "Ralphs",
+      "verification": {
+        "valid": true,
+        "confidence": "high",
+        "foundLat": 34.2632583,
+        "foundLon": -118.5257074,
+        "displayName": "Five Below, 18040, Chatsworth Street, Granada Hills, Granada Hills South Neighborhood Council District, Los Angeles, Los Angeles County, California, 91344, United States"
+      }
+    },
+    {
+      "store_name": "Ralphs",
+      "address": "11819 Wilshire Blvd, Los Angeles, CA 90025",
+      "lat": 34.0426,
+      "lon": -118.4579,
+      "retailer": "Ralphs",
+      "verification": {
+        "valid": true,
+        "confidence": "high",
+        "foundLat": 34.0480492,
+        "foundLon": -118.4632057,
+        "displayName": "Subway, 11819, Wilshire Boulevard, Brentwood, Los Angeles, Los Angeles County, California, 90025, United States"
+      }
+    },
+    {
+      "store_name": "Ralphs",
+      "address": "7257 W Sunset Blvd, Los Angeles, CA 90046",
+      "lat": 34.0977,
+      "lon": -118.3461,
+      "retailer": "Ralphs",
+      "verification": {
+        "valid": true,
+        "confidence": "high",
+        "foundLat": 34.0986866,
+        "foundLon": -118.3484349,
+        "displayName": "Ralphs, 7257, West Sunset Boulevard, Los Angeles, Los Angeles County, California, 90046, United States"
+      }
+    },
+    {
+      "store_name": "Ralphs",
+      "address": "6290 W Sunset Blvd, Los Angeles, CA 90028",
+      "lat": 34.0978,
+      "lon": -118.3258,
+      "retailer": "Ralphs",
+      "verification": {
+        "valid": true,
+        "confidence": "high",
+        "foundLat": 34.0973564,
+        "foundLon": -118.3264568,
+        "displayName": "Chipotle, 6290, West Sunset Boulevard, Hollywood, Los Angeles, Los Angeles County, California, 90028, United States"
+      }
+    },
+    {
+      "store_name": "Ralphs",
+      "address": "368 S Fairfax Ave, Los Angeles, CA 90036",
+      "lat": 34.0695,
+      "lon": -118.3617,
+      "retailer": "Ralphs",
+      "verification": {
+        "valid": true,
+        "confidence": "high",
+        "foundLat": 34.0703058,
+        "foundLon": -118.3613069,
+        "displayName": "368, South Fairfax Avenue, Fairfax, Los Angeles, Los Angeles County, California, 90036, United States"
+      }
+    },
+    {
+      "store_name": "Ralphs",
+      "address": "535 N Victory Blvd, Burbank, CA 91502",
+      "lat": 34.1724,
+      "lon": -118.3201,
+      "retailer": "Ralphs",
+      "verification": {
+        "valid": true,
+        "confidence": "high",
+        "foundLat": 34.1783158,
+        "foundLon": -118.3189038,
+        "displayName": "535, North Victory Boulevard, Burbank, Los Angeles County, California, 91502, United States"
+      }
+    },
+    {
+      "store_name": "Ralphs",
+      "address": "1730 E Colorado Blvd, Pasadena, CA 91106",
+      "lat": 34.1467,
+      "lon": -118.1177,
+      "retailer": "Ralphs",
+      "verification": {
+        "valid": true,
+        "confidence": "high",
+        "foundLat": 34.1459281,
+        "foundLon": -118.1142837,
+        "displayName": "1730, East Colorado Boulevard, Pasadena Council District 7, Pasadena, Los Angeles County, California, 91106, United States"
+      }
+    },
+    {
+      "store_name": "Ralphs",
+      "address": "7257 Melrose Ave, Los Angeles, CA 90046",
+      "lat": 34.0838,
+      "lon": -118.3461,
+      "retailer": "Ralphs",
+      "verification": {
+        "valid": true,
+        "confidence": "high",
+        "foundLat": 34.0837138,
+        "foundLon": -118.347759,
+        "displayName": "7257, Melrose Avenue, Fairfax, Los Angeles, Los Angeles County, California, 90046, United States"
+      }
+    },
+    {
+      "store_name": "Ralphs",
+      "address": "4760 Santa Monica Blvd, Los Angeles, CA 90029",
+      "lat": 34.0914,
+      "lon": -118.2931,
+      "retailer": "Ralphs",
+      "verification": {
+        "valid": true,
+        "confidence": "high",
+        "foundLat": 34.0907825,
+        "foundLon": -118.2932304,
+        "displayName": "4760, Santa Monica Boulevard, East Hollywood, Los Angeles, Los Angeles County, California, 90029, United States"
+      }
+    },
+    {
+      "store_name": "Ralphs",
+      "address": "5429 Hollywood Blvd, Los Angeles, CA 90027",
+      "lat": 34.1016,
+      "lon": -118.3069,
+      "retailer": "Ralphs",
+      "verification": {
+        "valid": true,
+        "confidence": "high",
+        "foundLat": 34.102296,
+        "foundLon": -118.3081363,
+        "displayName": "Ralphs, 5429, Hollywood Boulevard, Thai Town, Los Angeles, Los Angeles County, California, 90027, United States"
+      }
+    },
+    {
+      "store_name": "Ralphs",
+      "address": "12400 W Washington Blvd, Los Angeles, CA 90066",
+      "lat": 34.0034,
+      "lon": -118.4367,
+      "retailer": "Ralphs",
+      "verification": {
+        "valid": true,
+        "confidence": "high",
+        "foundLat": 33.9968067,
+        "foundLon": -118.4285485,
+        "displayName": "12400, West Washington Boulevard, Culver City, Los Angeles County, California, 90066, United States"
+      }
+    },
+    {
+      "store_name": "Ralphs",
+      "address": "1730 Westwood Blvd, Los Angeles, CA 90024",
+      "lat": 34.0534,
+      "lon": -118.4412,
+      "retailer": "Ralphs",
+      "verification": {
+        "valid": true,
+        "confidence": "high",
+        "foundLat": 34.0512431,
+        "foundLon": -118.4381044,
+        "displayName": "1730, Westwood Boulevard, West Los Angeles, Sawtelle, Los Angeles, Los Angeles County, California, 90024, United States"
+      }
+    },
+    {
+      "store_name": "Ralphs",
+      "address": "1644 Cloverfield Blvd, Santa Monica, CA 90404",
+      "lat": 34.0234,
+      "lon": -118.4789,
+      "retailer": "Ralphs",
+      "verification": {
+        "valid": true,
+        "confidence": "high",
+        "foundLat": 34.0271061,
+        "foundLon": -118.4739052,
+        "displayName": "Ralphs, 1644, Cloverfield Boulevard, Santa Monica, Los Angeles County, California, 90404, United States"
+      }
+    },
+    {
+      "store_name": "Ralphs",
+      "address": "3527 S La Cienega Blvd, Los Angeles, CA 90016",
+      "lat": 34.0189,
+      "lon": -118.3767,
+      "retailer": "Ralphs",
+      "verification": {
+        "valid": true,
+        "confidence": "high",
+        "foundLat": 34.0228347,
+        "foundLon": -118.3721787,
+        "displayName": "3527, South La Cienega Boulevard, Sentous, Los Angeles, Los Angeles County, California, 90016, United States"
+      }
+    },
+    {
+      "store_name": "Ralphs",
+      "address": "4311 Lincoln Blvd, Marina del Rey, CA 90292",
+      "lat": 33.9812,
+      "lon": -118.4456,
+      "retailer": "Ralphs",
+      "verification": {
+        "valid": true,
+        "confidence": "high",
+        "foundLat": 33.9842576,
+        "foundLon": -118.4431977,
+        "displayName": "Ralphs, 4311, Lincoln Boulevard, Golden Triangle, Los Angeles, Los Angeles County, California, 90292, United States"
+      }
+    },
+    {
+      "store_name": "Ralphs",
+      "address": "4320 Van Nuys Blvd, Sherman Oaks, CA 91403",
+      "lat": 34.1523,
+      "lon": -118.4489,
+      "retailer": "Ralphs",
+      "verification": {
+        "valid": true,
+        "confidence": "high",
+        "foundLat": 34.1495911,
+        "foundLon": -118.4489089,
+        "displayName": "4320, Van Nuys Boulevard, Sherman Oaks Neighborhood Council District, Los Angeles, Los Angeles County, California, 91403, United States"
+      }
+    },
+    {
+      "store_name": "Ralphs",
+      "address": "18080 Ventura Blvd, Encino, CA 91316",
+      "lat": 34.1589,
+      "lon": -118.5234,
+      "retailer": "Ralphs",
+      "verification": {
+        "valid": true,
+        "confidence": "high",
+        "foundLat": 34.1651663,
+        "foundLon": -118.5266875,
+        "displayName": "18080, Ventura Boulevard, Encino Neighborhood Council District, Los Angeles, Los Angeles County, California, 91316, United States"
+      }
+    },
+    {
+      "store_name": "Ralphs",
+      "address": "15120 Ventura Blvd, Sherman Oaks, CA 91403",
+      "lat": 34.1534,
+      "lon": -118.4723,
+      "retailer": "Ralphs",
+      "verification": {
+        "valid": true,
+        "confidence": "high",
+        "foundLat": 34.153085,
+        "foundLon": -118.4623002,
+        "displayName": "15120, Ventura Boulevard, Sherman Oaks Neighborhood Council District, Los Angeles, Los Angeles County, California, 91403, United States"
+      }
+    }
+  ],
+  "invalid": [
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "8101 S John Young Pkwy, Orlando, FL 32819",
+      "lat": 28.4562,
+      "lon": -81.429,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": false,
+        "reason": "Address not found"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "7450 Northside Dr, Tampa, FL 33604",
+      "lat": 28.0317,
+      "lon": -82.4876,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": false,
+        "reason": "Address not found"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "37 Marketplace Dr, Rochester, NY 14623",
+      "lat": 43.0845,
+      "lon": -77.6489,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": false,
+        "reason": "Address not found"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "6535 Carlisle Pike, Mechanicsburg, PA 17050",
+      "lat": 40.2145,
+      "lon": -77.0598,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": false,
+        "reason": "Address not found"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "51 Checkered Flag Blvd, Middletown, PA 17057",
+      "lat": 40.2098,
+      "lon": -76.7523,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": false,
+        "reason": "Address not found"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "4446 Eastgate Blvd, Cincinnati, OH 45245",
+      "lat": 39.0989,
+      "lon": -84.2734,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": false,
+        "reason": "Address not found"
+      }
+    },
+    {
+      "store_name": "Ralphs",
+      "address": "3300 W 6th St, Los Angeles, CA 90020",
+      "lat": 34.0633,
+      "lon": -118.2996,
+      "retailer": "Ralphs",
+      "verification": {
+        "valid": false,
+        "reason": "fetch failed"
+      }
+    }
+  ],
+  "uncertain": [
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "1655 Town Center Dr, Chula Vista, CA 91910",
+      "lat": 32.6401,
+      "lon": -117.0842,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0129, Δlon: 0.1159)",
+        "foundLat": 32.6272464,
+        "foundLon": -116.9682842,
+        "displayName": "Town Center Drive, Otay Ranch, Chula Vista, San Diego County, California, 91915, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "1301 N Victory Pl, Burbank, CA 91502",
+      "lat": 34.1808,
+      "lon": -118.309,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0070, Δlon: 0.0146)",
+        "foundLat": 34.1878463,
+        "foundLon": -118.3235988,
+        "displayName": "1301, North Victory Place, Burbank, Los Angeles County, California, 91502, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "3255 Sports Arena Blvd, San Diego, CA 92110",
+      "lat": 32.7516,
+      "lon": -117.2045,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0043, Δlon: 0.0168)",
+        "foundLat": 32.7558642,
+        "foundLon": -117.2212992,
+        "displayName": "Sports Arena Boulevard, Midway District, San Diego, San Diego County, California, 92110, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "555 9th St, San Francisco, CA 94103",
+      "lat": 37.7749,
+      "lon": -122.4194,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0039, Δlon: 0.0117)",
+        "foundLat": 37.7709988,
+        "foundLon": -122.4077368,
+        "displayName": "Trader Joe's, 555, 9th Street, Civic Center, South of Market, San Francisco, California, 94103, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "4000 E 4th Ave, Anchorage, AK 99508",
+      "lat": 61.2181,
+      "lon": -149.9003,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0006, Δlon: 0.0942)",
+        "foundLat": 61.218689,
+        "foundLon": -149.806074,
+        "displayName": "4000, East 4th Avenue, Russian Jack North, Anchorage, Alaska, 99508, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "5605 E Sam Houston Pkwy N, Houston, TX 77015",
+      "lat": 29.7604,
+      "lon": -95.3698,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0115, Δlon: 0.2146)",
+        "foundLat": 29.7718889,
+        "foundLon": -95.1552259,
+        "displayName": "East Sam Houston Parkway North, Houston, Harris County, Texas, 77530, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "12888 Gulf Fwy, Houston, TX 77034",
+      "lat": 29.6435,
+      "lon": -95.2191,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0283, Δlon: 0.0048)",
+        "foundLat": 29.6151672,
+        "foundLon": -95.2143486,
+        "displayName": "12888, Gulf Freeway, Houston, Harris County, Texas, 77034, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "8801 S Congress Ave, Austin, TX 78745",
+      "lat": 30.222,
+      "lon": -97.7923,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0524, Δlon: 0.0052)",
+        "foundLat": 30.169631,
+        "foundLon": -97.787114,
+        "displayName": "8801, South Congress Avenue, South Bend, Austin, Travis County, Texas, 78745, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "12900 N I-35, Austin, TX 78753",
+      "lat": 30.3988,
+      "lon": -97.6792,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0137, Δlon: 0.0045)",
+        "foundLat": 30.4124543,
+        "foundLon": -97.6746535,
+        "displayName": "Murphy USA, 12900, North Interstate 35, Park Central, Austin, Travis County, Texas, 78753, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "4627 S Cooper St, Arlington, TX 76017",
+      "lat": 32.6839,
+      "lon": -97.1291,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0124, Δlon: 0.0052)",
+        "foundLat": 32.6715183,
+        "foundLon": -97.1342813,
+        "displayName": "4627, South Cooper Street, Arlington, Tarrant County, Texas, 76017, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "5010 W Northern Ave, Glendale, AZ 85301",
+      "lat": 33.5693,
+      "lon": -112.1642,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0161, Δlon: 0.0026)",
+        "foundLat": 33.5531786,
+        "foundLon": -112.1668378,
+        "displayName": "5010, West Northern Avenue, Glendale, Maricopa County, Arizona, 85301, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "9333 E Valencia Rd, Tucson, AZ 85747",
+      "lat": 32.1384,
+      "lon": -110.8267,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0195, Δlon: 0.0314)",
+        "foundLat": 32.1189469,
+        "foundLon": -110.7953264,
+        "displayName": "9333, East Valencia Road, Tucson, Pima County, Arizona, 85747, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "7200 Arroyo Crossing Pkwy, Las Vegas, NV 89113",
+      "lat": 36.0397,
+      "lon": -115.2981,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0253, Δlon: 0.0490)",
+        "foundLat": 36.0650388,
+        "foundLon": -115.2490579,
+        "displayName": "Walmart Supercenter, 7200, Arroyo Crossing Parkway, Arroyo Shopping Plaza, Las Vegas, Clark County, Nevada, 89113, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "3041 N Rainbow Blvd, Las Vegas, NV 89108",
+      "lat": 36.1955,
+      "lon": -115.2433,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0193, Δlon: 0.0018)",
+        "foundLat": 36.2147605,
+        "foundLon": -115.2450661,
+        "displayName": "Walmart, 3041, North Rainbow Boulevard, Michael Way, Las Vegas, Clark County, Nevada, 89108, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "500 N Stephanie St, Henderson, NV 89014",
+      "lat": 36.0347,
+      "lon": -114.9816,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0245, Δlon: 0.0623)",
+        "foundLat": 36.0591598,
+        "foundLon": -115.0438951,
+        "displayName": "500, North Stephanie Street, Whitney Ranch, Henderson, Clark County, Nevada, 89014, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "17550 SW 65th Ave, Lake Oswego, OR 97035",
+      "lat": 45.4215,
+      "lon": -122.7645,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0307, Δlon: 0.0206)",
+        "foundLat": 45.3908001,
+        "foundLon": -122.7439292,
+        "displayName": "Southwest 65th Avenue, Rosewood, Jean, Lake Oswego, Clackamas County, Oregon, 97035, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "13550 SE Mill Plain Blvd, Vancouver, WA 98684",
+      "lat": 45.6302,
+      "lon": -122.5318,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0119, Δlon: 0.0030)",
+        "foundLat": 45.6182912,
+        "foundLon": -122.5288364,
+        "displayName": "13550, Southeast Mill Plain Boulevard, Vancouver, Clark County, Washington, 98684, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "10116 Edmonds Way, Edmonds, WA 98020",
+      "lat": 47.8187,
+      "lon": -122.3451,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0346, Δlon: 0.0078)",
+        "foundLat": 47.7841207,
+        "foundLon": -122.3528583,
+        "displayName": "Edmonds Way, Firdale, Edmonds, Snohomish County, Washington, 98020, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "3849 95th St, Evergreen Park, IL 60805",
+      "lat": 41.7203,
+      "lon": -87.7023,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0001, Δlon: 0.0158)",
+        "foundLat": 41.7204294,
+        "foundLon": -87.718114,
+        "displayName": "3849, West 95th Street, Evergreen Park, Worth Township, Cook County, Illinois, 60805, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "3600 N 120th St, Omaha, NE 68164",
+      "lat": 41.2912,
+      "lon": -96.1336,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0004, Δlon: 0.0328)",
+        "foundLat": 41.2915844,
+        "foundLon": -96.1007861,
+        "displayName": "3600, North 120th Street, Omaha, Douglas County, Nebraska, 68164, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "8525 S 71st Plaza, Papillion, NE 68133",
+      "lat": 41.1587,
+      "lon": -96.0564,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0156, Δlon: 0.0369)",
+        "foundLat": 41.1743317,
+        "foundLon": -96.0194541,
+        "displayName": "8525, South 71st Plaza, Papillion, Sarpy County, Nebraska, 68133, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "9305 Parkway E, Birmingham, AL 35206",
+      "lat": 33.5654,
+      "lon": -86.7145,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0243, Δlon: 0.0170)",
+        "foundLat": 33.5896775,
+        "foundLon": -86.6974928,
+        "displayName": "9305, Parkway East, Brookhurst, Birmingham, Jefferson County, Alabama, 35215, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "5335 Highway 280, Birmingham, AL 35242",
+      "lat": 33.4129,
+      "lon": -86.7353,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0197, Δlon: 0.0209)",
+        "foundLat": 33.4326324,
+        "foundLon": -86.7144195,
+        "displayName": "United States Highway 280, Cahaba Commons, Birmingham, Jefferson County, Alabama, 35243, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "6495 Atlanta Hwy, Montgomery, AL 36117",
+      "lat": 32.3482,
+      "lon": -86.1783,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0368, Δlon: 0.0066)",
+        "foundLat": 32.385046,
+        "foundLon": -86.184915,
+        "displayName": "Walmart Supercenter, 6495, Atlanta Highway, Montgomery, Montgomery County, Alabama, 36117, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "4201 N Roxboro St, Durham, NC 27704",
+      "lat": 36.0359,
+      "lon": -78.9022,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0120, Δlon: 0.0015)",
+        "foundLat": 36.0478528,
+        "foundLon": -78.9036743,
+        "displayName": "4201, North Roxboro Street, Mill Grove, Durham, Durham County, North Carolina, 27704, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "6600 Glenwood Ave, Raleigh, NC 27612",
+      "lat": 35.8302,
+      "lon": -78.6122,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0321, Δlon: 0.0950)",
+        "foundLat": 35.8622625,
+        "foundLon": -78.7072362,
+        "displayName": "Walmart, 6600, Glenwood Avenue, Raleigh, Wake County, North Carolina, 27612, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "8605 Concord Mills Blvd, Concord, NC 28027",
+      "lat": 35.3629,
+      "lon": -80.7234,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0112, Δlon: 0.0026)",
+        "foundLat": 35.374108,
+        "foundLon": -80.72597,
+        "displayName": "8605, Concord Mills Boulevard, Concord Mills, Concord, Cabarrus County, North Carolina, 28027, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "7620 University City Blvd, Charlotte, NC 28213",
+      "lat": 35.3081,
+      "lon": -80.7334,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0167, Δlon: 0.0212)",
+        "foundLat": 35.2914,
+        "foundLon": -80.7545628,
+        "displayName": "7620, University City Boulevard, University City, Charlotte, Mecklenburg County, North Carolina, 28213, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "6035 Peachtree Pkwy, Peachtree Corners, GA 30092",
+      "lat": 33.9698,
+      "lon": -84.2216,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0146, Δlon: 0.0115)",
+        "foundLat": 33.9552283,
+        "foundLon": -84.2330522,
+        "displayName": "6035, Peachtree Parkway Northwest, Peachtree Corners, Gwinnett County, Georgia, 30092, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "2427 Gresham Rd SE, Atlanta, GA 30316",
+      "lat": 33.7242,
+      "lon": -84.3298,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0048, Δlon: 0.0170)",
+        "foundLat": 33.719403,
+        "foundLon": -84.312825,
+        "displayName": "Walmart Supercenter, 2427, Gresham Road Southeast, Atlanta, DeKalb County, Georgia, 30316, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "6149 Old National Hwy, College Park, GA 30349",
+      "lat": 33.6412,
+      "lon": -84.4798,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0187, Δlon: 0.0053)",
+        "foundLat": 33.6225162,
+        "foundLon": -84.4744507,
+        "displayName": "Old National Highway, Cooks Crossing, College Park, Fulton County, Georgia, 30296, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "11250 E Colonial Dr, Orlando, FL 32817",
+      "lat": 28.5618,
+      "lon": -81.2398,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0041, Δlon: 0.0220)",
+        "foundLat": 28.5659297,
+        "foundLon": -81.2177891,
+        "displayName": "Walmart Supercenter, 11250, East Colonial Drive, University Park, Orlando, Orange County, Florida, 32817, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "9500 Regency Square Blvd, Jacksonville, FL 32225",
+      "lat": 30.2587,
+      "lon": -81.5934,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0675, Δlon: 0.0419)",
+        "foundLat": 30.326173,
+        "foundLon": -81.551474,
+        "displayName": "9500, Regency Square Boulevard, Jacksonville, Duval County, Florida, 32225, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "10251 Atlantic Blvd, Jacksonville, FL 32225",
+      "lat": 30.3242,
+      "lon": -81.5129,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0008, Δlon: 0.0214)",
+        "foundLat": 30.3234241,
+        "foundLon": -81.5343122,
+        "displayName": "10251, Atlantic Boulevard, Jacksonville, Duval County, Florida, 32225, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "5615 W Linebaugh Ave, Tampa, FL 33624",
+      "lat": 28.0234,
+      "lon": -82.5342,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0163, Δlon: 0.0527)",
+        "foundLat": 28.0397113,
+        "foundLon": -82.481504,
+        "displayName": "West Linebaugh Avenue, Armenia Heights, Tampa, Hillsborough County, Florida, 33612, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "6265 Brockport Spencerport Rd, Brockport, NY 14420",
+      "lat": 43.1923,
+      "lon": -77.9389,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0046, Δlon: 0.0111)",
+        "foundLat": 43.1968956,
+        "foundLon": -77.927773,
+        "displayName": "Walmart Supercenter, 6265, Brockport-Spencerport Road, Village of Brockport, Town of Sweden, Monroe County, New York, 14420, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "3195 Amelia Dr, Orchard Park, NY 14127",
+      "lat": 42.7639,
+      "lon": -78.7445,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0253, Δlon: 0.0377)",
+        "foundLat": 42.7891528,
+        "foundLon": -78.7822023,
+        "displayName": "Amelia Drive, Windom, Town of Orchard Park, Erie County, New York, 14219, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "4975 Transit Rd, Depew, NY 14043",
+      "lat": 42.9234,
+      "lon": -78.7089,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0410, Δlon: 0.0149)",
+        "foundLat": 42.8823862,
+        "foundLon": -78.6940385,
+        "displayName": "Walmart Supercenter, 4975, Transit Road, Town of Lancaster, Erie County, New York, 14043, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "1201 Airport Rd, Allentown, PA 18109",
+      "lat": 40.6523,
+      "lon": -75.4334,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0234, Δlon: 0.0060)",
+        "foundLat": 40.6288985,
+        "foundLon": -75.4394479,
+        "displayName": "Airport Plaza, 1201, Airport Road, Rittersville, Allentown, Lehigh County, Pennsylvania, 18109, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "1850 E Lincoln Hwy, Langhorne, PA 19047",
+      "lat": 40.1734,
+      "lon": -74.9234,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0006, Δlon: 0.0349)",
+        "foundLat": 40.1740209,
+        "foundLon": -74.8885269,
+        "displayName": "Lincoln Highway, Glenlake, Middletown Township, Bucks County, Pennsylvania, 19047, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "411 Cooley St, Springfield, MA 01128",
+      "lat": 42.1015,
+      "lon": -72.5445,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0081, Δlon: 0.0455)",
+        "foundLat": 42.0934217,
+        "foundLon": -72.4989991,
+        "displayName": "411, Cooley Street, Springfield, Hampden County, Massachusetts, 01128, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "500 Lincoln St, Worcester, MA 01605",
+      "lat": 42.2401,
+      "lon": -71.8123,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0568, Δlon: 0.0390)",
+        "foundLat": 42.2969376,
+        "foundLon": -71.7732993,
+        "displayName": "Kohl's, 500, Lincoln Street, Beverly Road, Worcester, Worcester County, Massachusetts, 01605, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "301 Chelmsford St, Chelmsford, MA 01824",
+      "lat": 42.5984,
+      "lon": -71.3645,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0069, Δlon: 0.0200)",
+        "foundLat": 42.60527,
+        "foundLon": -71.3445402,
+        "displayName": "Chelmsford Street, Chelmsford, Middlesex County, Massachusetts, 01824, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "4675 Southpark Dr, Medina, OH 44256",
+      "lat": 41.1223,
+      "lon": -81.8734,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.1116, Δlon: 0.1472)",
+        "foundLat": 41.0107062,
+        "foundLon": -81.7262298,
+        "displayName": "Southpark Drive, Wadsworth, Medina County, Ohio, 44281, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "3400 W Market St, Fairlawn, OH 44333",
+      "lat": 41.1178,
+      "lon": -81.6823,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0148, Δlon: 0.0632)",
+        "foundLat": 41.1325568,
+        "foundLon": -81.6190841,
+        "displayName": "West Market Street, Fairlawn, Summit County, Ohio, 44333, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "2473 E State St, Salem, OH 44460",
+      "lat": 40.9145,
+      "lon": -80.8389,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0136, Δlon: 0.0129)",
+        "foundLat": 40.9008783,
+        "foundLon": -80.8260203,
+        "displayName": "2473, East State Street, Salem, Columbiana County, Ohio, 44460, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "10000 Colerain Ave, Cincinnati, OH 45251",
+      "lat": 39.2434,
+      "lon": -84.6012,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0848, Δlon: 0.0567)",
+        "foundLat": 39.1586257,
+        "foundLon": -84.5445436,
+        "displayName": "Colerain Avenue, Cumminsville, South Cumminsville, Cincinnati, Hamilton County, Ohio, 45251, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "3800 E Broad St, Columbus, OH 43213",
+      "lat": 39.9612,
+      "lon": -82.9445,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0187, Δlon: 0.1052)",
+        "foundLat": 39.9799015,
+        "foundLon": -82.8392973,
+        "displayName": "East Broad Street, Far East Columbus, Columbus, Franklin County, Ohio, 43213, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "3586 Maple Ave, Zanesville, OH 43701",
+      "lat": 39.9401,
+      "lon": -82.0234,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0494, Δlon: 0.0000)",
+        "foundLat": 39.9894716,
+        "foundLon": -82.0233773,
+        "displayName": "3586, Maple Avenue, Zanesville, Muskingum County, Ohio, 43701, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "4301 24th Ave, Fort Gratiot, MI 48059",
+      "lat": 42.9989,
+      "lon": -82.4567,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0340, Δlon: 0.0002)",
+        "foundLat": 43.0329261,
+        "foundLon": -82.4564748,
+        "displayName": "4301, 24th Avenue, Fort Gratiot Charter Township, Saint Clair County, Michigan, 48059, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "5130 Coolidge Hwy, Royal Oak, MI 48073",
+      "lat": 42.5234,
+      "lon": -83.1578,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0055, Δlon: 0.0266)",
+        "foundLat": 42.5289464,
+        "foundLon": -83.184389,
+        "displayName": "Coolidge Highway, Royal Oak, Oakland County, Michigan, 48073, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "29176 Orchard Lake Rd, Farmington Hills, MI 48334",
+      "lat": 42.5623,
+      "lon": -83.3734,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0511, Δlon: 0.0143)",
+        "foundLat": 42.5112015,
+        "foundLon": -83.3591292,
+        "displayName": "29176, Orchard Lake Road, Farmington Hills, Oakland County, Michigan, 48334, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "37300 Gratiot Ave, Clinton Township, MI 48036",
+      "lat": 42.5912,
+      "lon": -82.9245,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0188, Δlon: 0.0347)",
+        "foundLat": 42.572373,
+        "foundLon": -82.889808,
+        "displayName": "37300, North Gratiot Avenue, Martin Luther King, Clinton Township, Macomb County, Michigan, 48036, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "3600 Minnesota Dr, Anchorage, AK 99503",
+      "lat": 61.1945,
+      "lon": -149.8923,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0065, Δlon: 0.0210)",
+        "foundLat": 61.18795,
+        "foundLon": -149.913349,
+        "displayName": "3600, Minnesota Drive, Spenard, Anchorage, Alaska, 99503, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "2770 Dagny Way, Lafayette, CO 80026",
+      "lat": 39.9923,
+      "lon": -105.1234,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0222, Δlon: 0.0106)",
+        "foundLat": 40.0145244,
+        "foundLon": -105.1340058,
+        "displayName": "Dagny Way, Lafayette, Boulder County, Colorado, 80026, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "3301 S Academy Blvd, Colorado Springs, CO 80916",
+      "lat": 38.8023,
+      "lon": -104.7923,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0164, Δlon: 0.0348)",
+        "foundLat": 38.7858785,
+        "foundLon": -104.7574509,
+        "displayName": "South Academy Boulevard, Colorado Springs, El Paso County, Colorado, 80916, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "7250 W 52nd Ave, Arvada, CO 80002",
+      "lat": 39.8023,
+      "lon": -105.0789,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0111, Δlon: 0.0018)",
+        "foundLat": 39.7911672,
+        "foundLon": -105.0770637,
+        "displayName": "7250, West 52nd Avenue, Arvada, Jefferson County, Colorado, 80002, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "10735 Lavington Dr, St Louis, MO 63123",
+      "lat": 38.5534,
+      "lon": -90.3423,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0729, Δlon: 0.0108)",
+        "foundLat": 38.6262619,
+        "foundLon": -90.3315336,
+        "displayName": "Lavington Drive, Richmond Heights, Saint Louis County, Missouri, 63117, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "4801 W Florissant Ave, St Louis, MO 63115",
+      "lat": 38.6734,
+      "lon": -90.2412,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0153, Δlon: 0.0073)",
+        "foundLat": 38.6886758,
+        "foundLon": -90.2339351,
+        "displayName": "4801, West Florissant Avenue, Mark Twain, Saint Louis, Missouri, 63115, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "4627 NW Gateway Ave, Riverside, MO 64150",
+      "lat": 39.1834,
+      "lon": -94.6245,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0023, Δlon: 0.0113)",
+        "foundLat": 39.1810685,
+        "foundLon": -94.6132216,
+        "displayName": "4627, Northwest Gateway Avenue, Riverside, Platte County, Missouri, 64150, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "8551 N Boardwalk Ave, Kansas City, MO 64154",
+      "lat": 39.2445,
+      "lon": -94.6834,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0060, Δlon: 0.0289)",
+        "foundLat": 39.2504963,
+        "foundLon": -94.6545118,
+        "displayName": "Walmart Supercenter, 8551, North Boardwalk Avenue, Kansas City, Platte County, Missouri, 64154, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "3745 Marketplace Dr, Rochester, MN 55901",
+      "lat": 44.0234,
+      "lon": -92.5067,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0406, Δlon: 0.0045)",
+        "foundLat": 44.0640307,
+        "foundLon": -92.5021753,
+        "displayName": "Marketplace Drive Northwest, Marketplace Plaza, Rochester, Olmsted County, Minnesota, 55901, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "7835 150th St W, Apple Valley, MN 55124",
+      "lat": 44.7312,
+      "lon": -93.2178,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0010, Δlon: 0.0204)",
+        "foundLat": 44.7321539,
+        "foundLon": -93.2381627,
+        "displayName": "150th Street West, Bob's Garden View, Apple Valley, Dakota County, Minnesota, 55124, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "9011 E Stockton Blvd, Elk Grove, CA 95624",
+      "lat": 38.4178,
+      "lon": -121.3834,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0294, Δlon: 0.0222)",
+        "foundLat": 38.4472335,
+        "foundLon": -121.4056121,
+        "displayName": "East Stockton Boulevard, Elk Grove, Sacramento County, California, 95624, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "8915 Gerber Rd, Sacramento, CA 95828",
+      "lat": 38.4923,
+      "lon": -121.4234,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0094, Δlon: 0.0540)",
+        "foundLat": 38.482889,
+        "foundLon": -121.3693956,
+        "displayName": "Coinstar, 8915, Gerber Road, Sacramento County, California, 95829, United States"
+      }
+    },
+    {
+      "store_name": "Walmart Supercenter",
+      "address": "5141 Bannock St, Denver, CO 80216",
+      "lat": 39.7934,
+      "lon": -105.0012,
+      "retailer": "Walmart",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0040, Δlon: 0.0115)",
+        "foundLat": 39.7894441,
+        "foundLon": -104.9897112,
+        "displayName": "5141, Bannock Street, Globeville, Denver, Colorado, 80216, United States"
+      }
+    },
+    {
+      "store_name": "Ralphs",
+      "address": "3330 Sepulveda Blvd, Los Angeles, CA 90034",
+      "lat": 34.0203,
+      "lon": -118.4235,
+      "retailer": "Ralphs",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.1131, Δlon: 0.0567)",
+        "foundLat": 34.1333861,
+        "foundLon": -118.4801837,
+        "displayName": "3330, Sepulveda Boulevard, Encino Neighborhood Council District, Los Angeles, Los Angeles County, California, 91403, United States"
+      }
+    },
+    {
+      "store_name": "Ralphs",
+      "address": "9616 Culver Blvd, Culver City, CA 90232",
+      "lat": 34.0033,
+      "lon": -118.3989,
+      "retailer": "Ralphs",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0195, Δlon: 0.0039)",
+        "foundLat": 34.0228496,
+        "foundLon": -118.3950497,
+        "displayName": "9616, Culver Boulevard, Downtown Culver City, Culver City, Los Angeles County, California, 90232, United States"
+      }
+    },
+    {
+      "store_name": "Ralphs",
+      "address": "3015 Main St, Santa Monica, CA 90405",
+      "lat": 34.0106,
+      "lon": -118.4692,
+      "retailer": "Ralphs",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0122, Δlon: 0.0107)",
+        "foundLat": 33.9984464,
+        "foundLon": -118.4798516,
+        "displayName": "3015, Main Street, Ocean Park, Santa Monica, Los Angeles County, California, 90405, United States"
+      }
+    },
+    {
+      "store_name": "Ralphs",
+      "address": "2035 Lincoln Blvd, Santa Monica, CA 90405",
+      "lat": 34.0165,
+      "lon": -118.4742,
+      "retailer": "Ralphs",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0139, Δlon: 0.0039)",
+        "foundLat": 34.0025542,
+        "foundLon": -118.4703191,
+        "displayName": "Lincoln Boulevard, Santa Monica, Los Angeles County, California, 90405, United States"
+      }
+    },
+    {
+      "store_name": "Ralphs",
+      "address": "19725 Rinaldi St, Porter Ranch, CA 91326",
+      "lat": 34.2685,
+      "lon": -118.5489,
+      "retailer": "Ralphs",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0071, Δlon: 0.0140)",
+        "foundLat": 34.2756331,
+        "foundLon": -118.562928,
+        "displayName": "Supercuts, 19725, Rinaldi Street, Porter Ranch Neighborhood Council District, Los Angeles, Los Angeles County, California, 91326, United States"
+      }
+    },
+    {
+      "store_name": "Ralphs",
+      "address": "1730 S Catalina Ave, Redondo Beach, CA 90277",
+      "lat": 33.8368,
+      "lon": -118.3889,
+      "retailer": "Ralphs",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0213, Δlon: 0.0023)",
+        "foundLat": 33.8154624,
+        "foundLon": -118.3866374,
+        "displayName": "South Catalina Avenue, Redondo Beach, Los Angeles County, California, 90277, United States"
+      }
+    },
+    {
+      "store_name": "Ralphs",
+      "address": "23371 Mulholland Dr, Woodland Hills, CA 91364",
+      "lat": 34.1317,
+      "lon": -118.6063,
+      "retailer": "Ralphs",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0259, Δlon: 0.0290)",
+        "foundLat": 34.1576277,
+        "foundLon": -118.6352901,
+        "displayName": "23371, Mulholland Drive, Woodland Hills-Warner Center Neighborhood Council District, Los Angeles, Los Angeles County, California, 91364, United States"
+      }
+    },
+    {
+      "store_name": "Ralphs",
+      "address": "3464 W 3rd St, Los Angeles, CA 90020",
+      "lat": 34.0711,
+      "lon": -118.301,
+      "retailer": "Ralphs",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0021, Δlon: 0.0102)",
+        "foundLat": 34.068971,
+        "foundLon": -118.2908191,
+        "displayName": "3464, West 3rd Street, Koreatown, Los Angeles, Los Angeles County, California, 90020, United States"
+      }
+    },
+    {
+      "store_name": "Ralphs",
+      "address": "2041 Sawtelle Blvd, Los Angeles, CA 90025",
+      "lat": 34.0366,
+      "lon": -118.4564,
+      "retailer": "Ralphs",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0037, Δlon: 0.0132)",
+        "foundLat": 34.0403392,
+        "foundLon": -118.4432376,
+        "displayName": "2041, Sawtelle Boulevard, Sawtelle Japantown, Sawtelle, Los Angeles, Los Angeles County, California, 90025, United States"
+      }
+    },
+    {
+      "store_name": "Ralphs",
+      "address": "13050 San Vicente Blvd, Los Angeles, CA 90049",
+      "lat": 34.0456,
+      "lon": -118.4734,
+      "retailer": "Ralphs",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0028, Δlon: 0.0171)",
+        "foundLat": 34.0484442,
+        "foundLon": -118.4905248,
+        "displayName": "13050, San Vicente Boulevard, Santa Monica, Los Angeles County, California, 90049, United States"
+      }
+    },
+    {
+      "store_name": "Ralphs",
+      "address": "10861 Venice Blvd, Los Angeles, CA 90034",
+      "lat": 34.0178,
+      "lon": -118.4234,
+      "retailer": "Ralphs",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0009, Δlon: 0.0127)",
+        "foundLat": 34.0168901,
+        "foundLon": -118.4106821,
+        "displayName": "10861, Venice Boulevard, Palms, Los Angeles, Los Angeles County, California, 90034, United States"
+      }
+    },
+    {
+      "store_name": "Ralphs",
+      "address": "17380 Sunset Blvd, Pacific Palisades, CA 90272",
+      "lat": 34.0512,
+      "lon": -118.5289,
+      "retailer": "Ralphs",
+      "verification": {
+        "valid": "uncertain",
+        "confidence": "low",
+        "reason": "Coordinates mismatch (Δlat: 0.0119, Δlon: 0.0251)",
+        "foundLat": 34.0392752,
+        "foundLon": -118.5539879,
+        "displayName": "Vons, 17380, West Sunset Boulevard, Los Angeles, Los Angeles County, California, 90272, United States"
+      }
+    }
+  ]
+}
