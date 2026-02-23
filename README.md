@@ -23,7 +23,7 @@ curl -H "Authorization: Bearer YOUR_SUPABASE_KEY" \
   "https://cmycxqqfvzmpvdtvbakl.supabase.co/functions/v1/make-server-26050ec2/stores?zip=91502&radius=5"
 ```
 
-**Run locally:**
+** If you want to run locally locally:**
 ```bash
 git clone https://github.com/yourusername/store-distance-engine
 cd store-distance-engine
@@ -190,57 +190,11 @@ store-distance-engine/
 
 ## Setup Instructions
 
-### 1. Clone the repo
 
-```bash
-git clone https://github.com/yourusername/store-distance-engine
-cd store-distance-engine
-```
 
-### 2. Install dependencies
+### Just click the link to Vercel above and use the project!
 
-```bash
-npm install
-```
-
-### 3. Set up environment variables
-
-Create a `.env` file:
-
-```env
-VITE_SUPABASE_URL=your_supabase_url
-VITE_SUPABASE_ANON_KEY=your_anon_key
-VITE_SUPABASE_PROJECT_ID=your_project_id
-```
-
-### 4. Upload store data
-
-```bash
-# Clear existing data (optional)
-node scripts/clear-all-stores.js
-
-# Upload stores
-node scripts/upload-ralphs-stores.js
-node scripts/bulk-upload-stores.js
-```
-
-### 5. Run locally
-
-```bash
-npm run dev
-```
-
-Visit `http://localhost:5173`
-
-### 6. Deploy to Vercel
-
-```bash
-# Connect your GitHub repo to Vercel
-# Push to main branch → automatic deployment
-git push origin main
-```
-
-Vercel handles the rest. Your site will be live at `your-app.vercel.app`.
+The site is live at the link above.
 
 ---
 
